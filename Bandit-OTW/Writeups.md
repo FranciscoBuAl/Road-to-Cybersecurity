@@ -1,7 +1,3 @@
-¡Me encanta esa actitud! Si quieres que alguien de S2 Grupo o HP vea tu GitHub y piense "este perfil tiene potencial", la documentación debe ser limpia, técnica y estructurada.
-
-Aquí tienes una propuesta de texto profesional para tu archivo Writeups.md (o README.md dentro de la carpeta de Bandit). Úsalo como plantilla:
-
 OverTheWire: Bandit Write-up (Levels 0-5)
 En este apartado documento la resolución de los retos de Bandit, enfocados en el dominio de la CLI (Command Line Interface) de Linux, gestión de privilegios y administración de sistemas.
 
